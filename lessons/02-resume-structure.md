@@ -1,4 +1,5 @@
 # Aeraf CV – Resume Writer Training
+
 ## Day 2: Understanding the Structure of a Professional Resume
 
 **Module:** 1 – Resume & CV Fundamentals  
